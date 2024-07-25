@@ -4,7 +4,8 @@ Use it to encrypt and subsequently decrypt strings.
 
 ## Prerequisites
 
-Python3 is installed.
+* Python3 is installed.
+* This directory is downloaded to your machine.
 
 ## Usage
 
@@ -14,7 +15,7 @@ Python3 is installed.
     python3 mycryptor.py
     ```
 
-2. Enter a string
+2. Enter a string.
 3. Enter a number from 1 to 3 and remember it. If the number is not in the range, 3 is used by default.
 3. Receive output. If you're on Mac, the output is automatically copied to the buffer.
 4. Enter or paste the encrypted string.
